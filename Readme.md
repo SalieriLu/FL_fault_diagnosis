@@ -1,4 +1,5 @@
-BearingFaultDiagnostics
+Federated learning fault diagnosis
+
 This repository contains parts of code for the publication publication "Federated Learning with Uncertainty-Based Client Clustering for Fleet-Wide Fault Diagnosis" by Hao et al.
 
 Brief description of the provided code/data
